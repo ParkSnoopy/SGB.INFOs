@@ -1,6 +1,7 @@
 # NETWORK
 
-### TCP
+## TCP
+> Tested with **[Outbound Port Tester](https://github.com/ParkSnoopy/port-outbound-tester-bin)** and **[Portquiz.net](http://portquiz.net/)**
 * 53
 * 80
 * 389
@@ -10,6 +11,7 @@
 * 1025
 * 1027
 * 1477
+* 1487
 * 1755
 * 1935
 * 2040
@@ -19,6 +21,7 @@
 * 3345
 * 4430
 * 4512
+* 5000
 * 5001
 * 5002
 * 5003
