@@ -1,7 +1,7 @@
 # NETWORK
 
 ## TCP
-> Tested by **[Outbound Port Tester](https://github.com/ParkSnoopy/port-outbound-tester-bin)** with **[portquiz.net](http://portquiz.net/)** and **[positon.org](http://positon.org/)**
+> Tested by **[Outbound Port Tester](https://github.com/ParkSnoopy/outbound-port-tester)** with **[portquiz.net](http://portquiz.net/)** and **[positon.org](http://positon.org/)**
 - 53
 - 80
 - 389
